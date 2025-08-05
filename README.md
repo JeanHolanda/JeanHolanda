@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Jean, tenho 19 anos e sou programador apaixonado por tecnologia!
+Me chamo Jean, tenho 20 anos e sou programador apaixonado por tecnologia!
 <br>
 <br>
 - 🔭 Atualmente trabalho com:
