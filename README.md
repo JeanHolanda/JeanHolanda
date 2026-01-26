@@ -1,6 +1,7 @@
 ## Olá! 👋
 
-Me chamo Jean, tenho 20 anos e sou programador apaixonado por tecnologia!
+Desenvolvedor Front-End Júnior | HTML • CSS • JavaScript
+Em busca de oportunidade remota 🚀
 <br>
 <br>
 - 🔭 Atualmente trabalho com:
