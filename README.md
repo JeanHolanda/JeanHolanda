@@ -1,12 +1,13 @@
-# 👋 Olá, eu sou Jean Holanda
+# 👋 Hi, I'm Jean Holanda
 
-Desenvolvedor Front-End Júnior | HTML • CSS • JavaScript  
-Focado em criar interfaces interativas e aplicar JavaScript na prática  
-Construindo projetos reais e buscando minha primeira oportunidade 🚀
+Front-End Developer | HTML • CSS • JavaScript  
+
+Focused on building interactive interfaces and real-world JavaScript applications.  
+Currently looking for my first opportunity as a Front-End Developer 🚀
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Technologies
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,7 +17,7 @@ Construindo projetos reais e buscando minha primeira oportunidade 🚀
 
 ---
 
-## 🌱 Atualmente aprendendo
+## 🌱 Currently Learning
 
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -24,52 +25,48 @@ Construindo projetos reais e buscando minha primeira oportunidade 🚀
 
 ---
 
-## 📌 Projetos em destaque
+## 💼 Portfolio
+
+Check out my projects here:
+
+👉 https://jeanholanda.github.io/
+
+---
+
+## 📌 Featured Projects
 
 ### 🍔 Burger Shop
 
-Interface de pedidos com foco em `map`, `filter`, `reduce` e manipulação de DOM
+Interactive ordering application with product filtering and dynamic total calculation.
 
 🔗 https://jeanholanda.github.io/burger-shop/
 
 ---
 
-### 💱 Conversor de Moedas
+### 💱 Currency Converter
 
-Funções, eventos e manipulação de elementos HTML com JavaScript
+Currency conversion application with real-time updates and formatted values.
 
 🔗 https://jeanholanda.github.io/currency-converter/
 
 ---
 
-### ✊ Jokenpô
+### ⏱️ Stopwatch
 
-Uso de `Math.random`, arrow functions e `return`
-
-🔗 https://jeanholanda.github.io/rock-paper-scissors/
-
----
-
-### ⏱️ Cronômetro
-
-Uso de `setInterval` e operador ternário
+Time tracking application with real-time updates and state management.
 
 🔗 https://jeanholanda.github.io/stopwatch/
 
 ---
 
-### 🎲 Sorteador
+### ✊ Rock Paper Scissors
 
-Geração de números aleatórios com `Math.random`
+Interactive game against the computer with game logic and score tracking.
 
-🔗 https://jeanholanda.github.io/random-generator/
+🔗 https://jeanholanda.github.io/rock-paper-scissors/
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-<div>
-  <a href="https://www.linkedin.com/in/jeanholanda">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+- 💼 LinkedIn: https://www.linkedin.com/in/jeanholanda
