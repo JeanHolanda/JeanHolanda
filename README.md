@@ -33,6 +33,14 @@ Check out my projects here:
 
 ---
 
+## 📈 Goals
+
+- Become a Front-End Developer  
+- Build real-world applications  
+- Continuously improve my skills
+
+---
+
 ## 📌 Featured Projects
 
 ### 🍔 Burger Shop
