@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Jean Holanda
+# Olá! Eu sou Jean Holanda 👋
 
-Front-End Developer | HTML • CSS • JavaScript  
+Desenvolvedor Front-End 
 
-Focused on building interactive interfaces and real-world JavaScript applications.  
-Currently looking for my first opportunity as a Front-End Developer 🚀
+Desenvolvedor Front-End com conhecimentos em HTML, CSS, JavaScript e React. Busco desenvolver interfaces modernas, funcionais e responsivas, aplicando boas práticas de desenvolvimento e aprimorando continuamente minhas habilidades por meio de projetos práticos.
+
+---
+
+Front-End Developer with knowledge of HTML, CSS, JavaScript, and React. I aim to build modern, functional, and responsive interfaces, applying development best practices and continuously improving my skills through practical projects.
 
 ---
 
@@ -13,16 +16,10 @@ Currently looking for my first opportunity as a Front-End Developer 🚀
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
 </div>
-
----
-
-## 🌱 Currently Learning
-
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</div>
-
+  
 ---
 
 ## 💼 Portfolio
@@ -45,25 +42,25 @@ Check out my projects here:
 
 ### 🍔 Burger Shop
 
-Interactive ordering application with product filtering and dynamic total calculation.
+Interactive burger ordering application featuring product filtering and dynamic price calculation.
 
-🔗 https://jeanholanda.github.io/burger-shop/
+🔗 [Live Demo](https://jeanholanda.github.io/burger-shop/)
 
 ---
 
 ### 💱 Currency Converter
 
-Currency conversion application with real-time updates and formatted values.
+Currency conversion application using an external API, asynchronous JavaScript, and formatted values.
 
-🔗 https://jeanholanda.github.io/currency-converter/
+🔗 [Live Demo](https://jeanholanda.github.io/currency-converter/)
 
 ---
 
 ### ⏱️ Stopwatch
 
-Time tracking application with real-time updates and state management.
+Stopwatch application with time tracking and dynamic interface updates.
 
-🔗 https://jeanholanda.github.io/stopwatch/
+🔗 [Live Demo](https://jeanholanda.github.io/stopwatch/)
 
 ---
 
@@ -71,10 +68,12 @@ Time tracking application with real-time updates and state management.
 
 Interactive game against the computer with game logic and score tracking.
 
-🔗 https://jeanholanda.github.io/rock-paper-scissors/
+🔗 [Live Demo](https://jeanholanda.github.io/rock-paper-scissors/)
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jeanholanda
+- 💼 LinkedIn: [Jean Holanda](https://www.linkedin.com/in/jeanholanda)
+- 🌐 Portfólio: [Jean Holanda](https://jeanholanda.github.io/jean-holanda-portfolio/)
+- 📧 E-mail: [jeanpdholanda@gmail.com](mailto:jeanpdholanda@gmail.com)
