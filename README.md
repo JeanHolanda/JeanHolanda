@@ -26,7 +26,7 @@ Front-End Developer with knowledge of HTML, CSS, JavaScript, and React. I aim to
 
 Check out my projects here:
 
-👉 https://jeanholanda.github.io/
+👉 [My portfolio](https://jeanholanda.github.io/jean-holanda-portfolio/)
 
 ---
 
